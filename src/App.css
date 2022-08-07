@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(117, 218, 218);
+}
+
+h2{
+  font-family: Verdana;
+  font-size: 25px;
+  margin: 10px 20px;
+}
+
+button{
+  padding: 10px;
+  margin: 5px 20px;
+  font-size: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.633);
+}
